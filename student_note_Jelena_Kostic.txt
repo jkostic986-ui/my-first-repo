@@ -1,0 +1,4 @@
+Jelena Kostic
+13.08.2025.
+Ovoj je moj prvi commit.
+https://github.com/jkostic986-ui/my-first-repo
